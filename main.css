@@ -14,8 +14,8 @@ body {
 
 img {
     max-width: 100%;
-    height: 600px;
-    width: 500px;
+    height: auto;
+    width: auto;
 }
 
 h1 {
@@ -37,6 +37,10 @@ a {
 
 a:hover {
     color: darkmagenta;
+}
+
+footer {
+    background-color: #AAC1DC
 }
 
 ul {
