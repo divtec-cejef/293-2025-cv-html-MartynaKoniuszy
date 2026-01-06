@@ -31,3 +31,8 @@ a {
 a:hover {
     color: darkmagenta;
 }
+
+ul {
+    color: #F988AD;
+    font-weight: bold;
+}
