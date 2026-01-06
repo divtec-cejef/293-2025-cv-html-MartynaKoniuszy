@@ -31,7 +31,7 @@ h2 {
     color: #d0bbd2;
 }
 
-a {
+a , p {
     color: deeppink;
     text-decoration: none;
 }
