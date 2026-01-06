@@ -5,7 +5,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 1.4;
     color: #000000;
     background-color: #D5D3E8;
@@ -15,6 +15,12 @@ img {
     max-width: 100%;
     height: auto;
     width: auto;
+}
+
+h1 {
+    font-size: 18px;
+    font-weight: bolf;
+    text-align: center;
 }
 
 a {
